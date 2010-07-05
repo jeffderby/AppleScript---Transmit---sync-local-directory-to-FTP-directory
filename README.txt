@@ -6,7 +6,7 @@
 An AppleScript to tell Transmit to synchronize a local directory to an FTP directory.
 
 == INSTRUCTIONS ==
-You will have to edit the script file to the directories that you want to synchronize. Look in the comments for the places to change.
+You will have to edit the script file to the directories that you want to synchronize. Change the three variables under the word "CONFIGURATION" in the comments.
 
 == CREATOR ==
 Lincoln Mullen
